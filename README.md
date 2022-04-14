@@ -6,9 +6,9 @@
 
 ## Auteur(s)
 
-|Nom|Prénom|login|email|
-|--|--|--|--|
-|Ait Hammi|Massinissa|am184100|massinissa.ait-hammi@etu.univ-lehavre.fr|
+|Nom|Prénom|email|
+|--|--|--|
+|Ait Hammi|Massinissa|massinissaait2018@gmail.com|
 
 ## Travail à réaliser
 
@@ -25,8 +25,4 @@ pour  permettre l'interconnection et le partage des dessins de chacun.
 
 On ne souhaite utiliser aucune autre technologie que les WebSocket et les Canvas supportés nativement par le navigateur. On n'utilisera ni framework ni bibliothèque de dessins.
  
-Projet à rendre sous forme d'un projet GIT sur la forge de l'université.
 
-## Évaluation
-
-[Liste des aptitudes évaluées.](/teaching/WebDev1#ws-whiteboard)
