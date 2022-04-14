@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font: 15px Helvetica, Arial;
+}
+form {
+  background: #2e2e2e;
+  color: #d4d4d4;
+  padding: 10px 20px;
+  bottom: 0;
+}
+form input {
+  border: 0;
+  background: transparent;
+  color: #d4d4d4;
+  outline-width: 0;
+  padding: 10px 20px;
+  width: 90%;
+}
+
+header p {
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
+  font-style: italic;
+  margin: 1em;
+  color: #7a7a7a;
+}
+
+.nameDessin {
+  border: solid 1px black;
+  display: flex;
+  flex-direction: column;
+
+  width: 20%;
+  margin: 0 0 2em 10px;
+}
+
+.nameDessin p {
+  text-align: center;
+}
+
+#calques {
+  color: #2e2e2e;
+  list-style-type: none;
+}
+
+#calques li {
+  padding: 5px 20px;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  width: 100%;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+
+#canvas {
+  margin: 20px;
+  border: solid 1px black;
+}
+
+button {
+  width: 100%;
+  height: 100%;
+  background: none;
+  padding: 0;
+  border: none;
+}
+
+.selectioned {
+  border: solid 1px black;
+  border-radius: 1rem;
+  background-color: #c1bfbf;
+}
